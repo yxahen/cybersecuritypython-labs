@@ -4,4 +4,4 @@ __pycache__/
 *.py[cod]
 .ruff_cache/
 labs/lab01/data/*.csv
-labs/lab01/data/*.json
+labs/lab01/data/*.json.pytest_cache/
